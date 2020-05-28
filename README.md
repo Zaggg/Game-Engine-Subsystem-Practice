@@ -1,2 +1,2 @@
 ## Game-Engine-Subsystem-Practice
-personal practice of Game Engine Architecture
+personal practice of *Game Engine Architecture*
